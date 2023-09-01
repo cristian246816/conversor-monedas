@@ -51,11 +51,3 @@ p {
     text-align: center;
     margin-top: 20px;
 }
-
-.graph-container {
-    margin-top: 20px;
-    border: 1px solid #ccc;
-    padding: 10px;
-    background-color: #fff;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-}
